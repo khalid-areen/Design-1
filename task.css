@@ -1,0 +1,33 @@
+
+.container-fluid {
+    border: 5px solid black;
+    background-color: rgb(101, 168, 226);
+}
+
+.Header {
+    /* border: 3px solid rgb(2, 137, 2); */
+    text-align: center;
+}
+.Nav-Line{
+    /* border: 3px solid royalblue; */
+    text-align: center;
+    background-color: brown;
+}
+.Left {
+    border: 3px solid rgb(4, 4, 4);
+    height: 400px;
+}
+
+.Right {
+    /* border: 3px solid rebeccapurple; */
+    height: 400px;
+}
+.B-1{
+    border: 3px solid rgb(0, 0, 0);
+      height: 170px;
+      margin-top:20px ;
+}
+.footer{
+    /* border:4px solid yellow; */
+    text-align: center;
+}
